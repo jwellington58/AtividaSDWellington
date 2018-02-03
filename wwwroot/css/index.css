@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #337ab7;
+}
+.cotainer { 
+    width: 40%; 
+    margin: 20px auto 0px auto; 
+}
+.res {
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    
+    background-color: orange
+}
+label{
+    color: white
+} 

@@ -1,0 +1,10 @@
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\bin\Debug\netcoreapp2.0\ProjetoFerias.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\bin\Debug\netcoreapp2.0\ProjetoFerias.runtimeconfig.json
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\bin\Debug\netcoreapp2.0\ProjetoFerias.runtimeconfig.dev.json
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\bin\Debug\netcoreapp2.0\ProjetoFerias.dll
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\bin\Debug\netcoreapp2.0\ProjetoFerias.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\obj\Debug\netcoreapp2.0\ProjetoFerias.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\obj\Debug\netcoreapp2.0\ProjetoFerias.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\obj\Debug\netcoreapp2.0\ProjetoFerias.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\obj\Debug\netcoreapp2.0\ProjetoFerias.dll
+C:\Users\wj070\Desktop\Programas\Projetos\SistemasDistribuidos\ProjetoFerias\obj\Debug\netcoreapp2.0\ProjetoFerias.pdb
